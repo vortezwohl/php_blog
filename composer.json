@@ -1,0 +1,17 @@
+{
+    "name": "wohl/test",
+    "description": "none",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Wohl\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wohl"
+        }
+    ],
+    "require": {}
+}
